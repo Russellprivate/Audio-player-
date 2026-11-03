@@ -1,0 +1,6 @@
+{
+  "name": "Video to Audio",
+  "description": "Fast and easy video to audio converter with batch processing, custom bitrates, preview player, offline processing, and multilingual support by Russell Private Limited.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
